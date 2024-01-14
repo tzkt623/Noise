@@ -51,6 +51,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.md.meta
+LICENSE.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -71,5 +73,3 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-LICENSE.md.meta
-README.md.meta
